@@ -59,8 +59,8 @@ Para ejecutar este proyecto, necesitas:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tuusuario/facultad-carrera-crud.git
-   cd facultad-carrera-crud
+   git clone https://github.com/MaxCar31/ExamenAplicacionesMoviles.git
+   cd ExamenAplicacionesMoviles
    ```
 
 2. **Configura el entorno:**
